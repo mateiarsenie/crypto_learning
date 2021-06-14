@@ -1,2 +1,2 @@
-# crypto_learning
+# Crypto Strategies
 Investigating investment strategies on crypto market
